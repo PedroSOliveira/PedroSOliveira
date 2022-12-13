@@ -16,7 +16,7 @@ Graduating from Information Systems, developer and an enthusiast in UI / UX, I a
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronierlima/)](https://www.linkedin.com/in/ronierlima/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ronierlima)](https://github.com/ronierlima)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lima_ronier)](https://twitter.com/lima_ronier)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588999798335&text=Hello!)](https://api.whatsapp.com/send?phone=5588999798335&text=Hello!)
+<!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588999798335&text=Hello!)](https://api.whatsapp.com/send?phone=5588999798335&text=Hello!) -->
 
 <!--
 **ronierlima/ronierlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
